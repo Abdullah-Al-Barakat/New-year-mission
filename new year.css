@@ -1,0 +1,231 @@
+.new-year-banner {
+    /* color: black; */
+    background-image: url('./B9A1-New-Year-New-Mission-main/resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    margin: 10px 140px;
+    /* opacity: 0.7;  */
+
+
+}
+
+.happy-new-year {
+    color: white;
+    /* background-color: black; */
+    text-align: center;
+    font-size: 32px;
+    position: absolute;
+    margin-top: 177px;
+    margin-left: 530px;
+
+}
+
+.new-year-party {
+    color: white;
+   
+    
+    text-align: center;
+    padding-top: 233px;
+    font-size: 72px;
+    font-weight: 900;
+
+}
+
+.off {
+    text-align: center;
+    position: absolute;
+    width: 802.9px;
+    height: 500px;
+    left: 399px;
+    right: 398.1px;
+    top: 650px;
+    /* bottom: 5759px; */
+    padding: 20px;
+}
+
+
+.-off {
+    font-size: 88px;
+    font-weight: 700;
+    color: red;
+}
+
+.mid-night {
+    background-image: url('./B9A1-New-Year-New-Mission-main/resources/Vectorrr.png');
+    margin: 1000px 155px 120px 155px;
+    display: flex;
+    flex-direction: row-reverse;
+    border-radius: 16px;
+    opacity: linear-gradient(90.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%);
+    padding: 68px 108px 67px 126px;
+
+    /* background: linear-gradient(90.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%); */
+
+}
+
+.dolar {
+    font-size: large;
+    color: white;
+    text-align: left;
+    /* padding-bottom: 214px; */
+}
+
+.new-year-party1 {
+    color: white;
+    text-align: left;
+    /* padding-top: 233px; */
+    font-size: 72px;
+    font-weight: 900;
+}
+
+.join-now {
+    color: white;
+    text-align: left;
+    font-size: 22px;
+    /* position: absolute; */
+    /* margin-top: 177px; */
+    /* margin-left: 530px; */
+}
+
+.btn {
+    color: white;
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.new-park {
+    margin: 0px 140px;
+    padding: 100px 386px 110px 385px;
+    text-align: center;
+    border-radius: 16px;
+
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0) 100%);
+}
+
+.time {
+    color: red;
+}
+
+.comming-soon {
+    margin: 0px 140px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.best-offer {
+    width: 400px;
+}
+
+.Functional {
+    margin: 50px 140px;
+    text-align: center;
+
+}
+
+.holidays {
+    font-size: 72px;
+    font-weight: 700;
+    /* color: black; */
+}
+
+.dicount-part {
+    margin: 0px 140px;
+    display: flex;
+    /* justify-content: space-evenly; */
+    width: 1320px;
+    /* background-image: url('./B9A1-New-Year-New-Mission-main/resources/Rectangle\ 2.png'); */
+    /* padding-bottom: 1000px; */
+    border-radius: 16px 0px 16px 16px;
+    /* background: rgb(255, 0, 0); */
+}
+.part{
+    position: absolute;
+    padding-bottom: -300px;
+}
+.part2{
+    position: absolute;
+    padding-left: 730px;
+    padding-top: 50px;
+
+}
+.part3{
+    padding-left: 891px;
+}
+
+.best-gift {
+    margin: 0px 140px;
+}
+.sit{
+    margin-bottom: 60px;
+}
+.grid-container{
+    margin-bottom: 80px;
+    display: grid;
+     grid-template-columns:auto auto auto;
+    gap: 23px;
+}
+
+.Subscribe-Newsletter {
+    margin: 0px 140px 80px;
+    padding: 100px 386px 110px 385px;
+    text-align: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+
+}
+
+.email {
+    width: 648px;
+    height: 72px;
+    padding: 3px 20px;
+     border-radius: 50px 0px 0px 50px; 
+    border: none;
+}
+.red-image{
+    margin: 0px 140px 70px;
+
+}
+.subscribe{
+    display: flex;
+    /* border-radius: 50px; */
+}
+.btn2{
+    color: white;
+    background-color: red;
+    padding: 3px 50px;
+    border-radius: 0px 50px 50px 0px;
+    border: none;
+
+}
+
+/* footer part */
+.main-footer{
+    background-color: rgb(7, 2, 17);
+    color: white;
+    font-size: large;
+}
+
+.f-part1{
+    padding: 120px 291px 80px 140px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.f-part2{
+    padding: 50px 0px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.f-part3{
+    padding: 80px 291px 120px 140px;
+    display: flex;
+    justify-content: space-between;
+}
+.line{
+    margin: 0px 140px;
+    opacity: 0.2;
+}
